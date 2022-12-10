@@ -24,5 +24,5 @@ For those unaware, dfply is a package that mimics the "dplyr" package from R. I 
 16. Practice (int): Which practice session lap took place in
 17. Grand Prix: Which grand prix entry corresponds too
 
-Note that Qualifying prefix references the data during the driver's best qualifying lap
+Note that Qualifying prefix references the data during the driver's best qualifying lap.
 

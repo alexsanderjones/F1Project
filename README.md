@@ -8,7 +8,7 @@ For those unaware, dfply is a package that mimics the "dplyr" package from R. I 
 ### Meaning for each dataframe variable (ripped from fastf1 documentation):
 1. Index: unnecessary but I can't remove it
 2. Driver (str): Driver number
-3. LapTime (pandas.Timedelta): Lap time of the last finished lap (the lap in this row)
+3. LapTime (float): Lap time of the last finished lap (in seconds)
 4. NumberOfLaps (int): Number of laps driven by this driver including the lap in this row
 5. NumberOfPitStops (int): Number of pit stops of this driver
 6. Sector1/2/3Time (pandas.Timedelta): Sector times (one column for each sector time)
